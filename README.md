@@ -1,2 +1,0 @@
-# hello-deno
-Begin app
